@@ -1,0 +1,30 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is react project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swatib91/react-project-2024.git"
+  },
+  "keywords": [],
+  "author": "Swati Bhaip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swatib91/react-project-2024/issues"
+  },
+  "homepage": "https://github.com/Swatib91/react-project-2024#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browerslist" : [
+    "last 2 versions"
+  ]
+}
